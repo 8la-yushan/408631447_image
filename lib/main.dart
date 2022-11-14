@@ -22,7 +22,7 @@ class MyHomePage extends StatefulWidget {
   @override
   Widget build(BuildContext context) {
   return Center(
-  //↓↓↓更改此處程式碼↓↓↓
+
   child: Center(
       child: (Image.network('https://www.easyatm.com.tw/img/7/b50/wZwpmLzIjN5kTM5YjMzEzM1UTM1QDN5MjM5ADMwAjMwUzL2IzLwgzLt92YucmbvRWdo5Cd0FmLyE2LvoDc0RHa.jpg'),
       Image.network('https://www.easyatm.com.tw/img/5/a20/nBnauM3XzUjN0gjMxcjMzEzM1UTM1QDN5MjM5ADMwAjMwUzL3IzLxAzLt92YucmbvRWdo5Cd0FmL0E2LvoDc0RHa.jpg'),
